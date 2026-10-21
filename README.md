@@ -6,7 +6,8 @@ An interactive Executive HR Analytics Dashboard built in **Microsoft Excel** to 
 ---
 
 ## 📸 Dashboard Preview
-![HR Dashboard Preview](dashboard_preview.png)
+<img width="1512" height="615" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/6634a70b-1e85-470c-b4b1-ff27f549cb81" />
+
 
 ---
 
